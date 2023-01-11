@@ -11,10 +11,10 @@
 
 # 📝 Notes:
 
-# Linters files added. ✔
+## Linters files added. ✔
 
-# .gitignore file has test.md and node_modules files. ✔
+## .gitignore file has test.md and node_modules files. ✔
 
-# index.html having h1 and style.css having color property. ✔
+## index.html having h1 and style.css having color property. ✔
 
 # Used basic and descriptive readMe file. ✔
