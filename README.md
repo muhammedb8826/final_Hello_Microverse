@@ -134,7 +134,7 @@ To run the project, click [Hello Microverse](https://github.com/Ali-0111/final_H
 
 ## 👥 Authors <a name="authors"></a>
 
-👤 **Sir Malcom Charles**
+👤 **Qurban Ali Safari**
 
 - GitHub: [@githubhandle](https://github.com/Ali-0111)
 - Twitter: [@twitterhandle](https://twitter.com/qurban_safari)
